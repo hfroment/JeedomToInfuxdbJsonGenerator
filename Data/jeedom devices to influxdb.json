@@ -1,0 +1,617 @@
+{
+    "1027": {
+        "Comment": "Linky-Jour",
+        "DataType": "kWh",
+        "Idx": "1027"
+    },
+    "1028": {
+        "Comment": "Linky-Mois",
+        "DataType": "kWh",
+        "Idx": "1028"
+    },
+    "1029": {
+        "Comment": "Linky-Année",
+        "DataType": "kWh",
+        "Idx": "1029"
+    },
+    "1030": {
+        "Comment": "Linky-Heure",
+        "DataType": "kWh",
+        "Idx": "1030"
+    },
+    "1031": {
+        "Comment": "Linky-P max",
+        "DataType": "kVA",
+        "Idx": "1031"
+    },
+    "1048": {
+        "Comment": "Mezzanine-Temperature",
+        "DataType": "Temperature",
+        "Idx": "155"
+    },
+    "1049": {
+        "Comment": "Mezzanine-Humidity",
+        "DataType": "Humidity",
+        "Idx": "155"
+    },
+    "1051": {
+        "Comment": "Mezzanine-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "155"
+    },
+    "1052": {
+        "Comment": "Mezzanine-U Batterie",
+        "DataType": "mV",
+        "Idx": "155"
+    },
+    "1053": {
+        "Comment": "Mezzanine-% batterie",
+        "DataType": "Percent",
+        "Idx": "155"
+    },
+    "1228": {
+        "Comment": "Muret Lherm-Temperature",
+        "DataType": "Temperature",
+        "Idx": "26"
+    },
+    "1239": {
+        "Comment": "Muret Lherm-Humidity",
+        "DataType": "Humidity",
+        "Idx": "26"
+    },
+    "1240": {
+        "Comment": "Muret Lherm-dd",
+        "DataType": "dd",
+        "Idx": "26"
+    },
+    "1241": {
+        "Comment": "Muret Lherm-ff",
+        "DataType": "ff",
+        "Idx": "26"
+    },
+    "1242": {
+        "Comment": "Muret Lherm-dx10",
+        "DataType": "dx10",
+        "Idx": "26"
+    },
+    "1243": {
+        "Comment": "Muret Lherm-fxi10",
+        "DataType": "fxi10",
+        "Idx": "26"
+    },
+    "1251": {
+        "Comment": "Fibre-Download",
+        "DataType": "Utility",
+        "Idx": "4"
+    },
+    "1252": {
+        "Comment": "Fibre-Upload",
+        "DataType": "Utility",
+        "Idx": "3"
+    },
+    "1330": {
+        "Comment": "PAC-T Salon",
+        "DataType": "Temperature",
+        "Idx": "1330"
+    },
+    "1331": {
+        "Comment": "PAC-T Véranda",
+        "DataType": "Temperature",
+        "Idx": "1331"
+    },
+    "1332": {
+        "Comment": "PAC-T extérieure",
+        "DataType": "Temperature",
+        "Idx": "1332"
+    },
+    "1333": {
+        "Comment": "PAC-T flow",
+        "DataType": "Temperature",
+        "Idx": "1333"
+    },
+    "1429": {
+        "Comment": "PAC-[Atelier][melcloud][MinTemperature_0]",
+        "DataType": "Temperature",
+        "Idx": "1429"
+    },
+    "1430": {
+        "Comment": "PAC-[Atelier][melcloud][MaxTemperature_0]",
+        "DataType": "Temperature",
+        "Idx": "1430"
+    },
+    "1431": {
+        "Comment": "PAC-[Atelier][melcloud][MaxSetTemperature_0]",
+        "DataType": "Temperature",
+        "Idx": "1431"
+    },
+    "1432": {
+        "Comment": "PAC-[Atelier][melcloud][MinSetTemperature_0]",
+        "DataType": "Temperature",
+        "Idx": "1432"
+    },
+    "1433": {
+        "Comment": "PAC-[Atelier][melcloud][FlowTemperatureZone1]",
+        "DataType": "Temperature",
+        "Idx": "1433"
+    },
+    "1434": {
+        "Comment": "PAC-[Atelier][melcloud][FlowTemperatureZone2]",
+        "DataType": "Temperature",
+        "Idx": "1434"
+    },
+    "1435": {
+        "Comment": "PAC-[Atelier][melcloud][FlowTemperatureBoiler]",
+        "DataType": "Temperature",
+        "Idx": "1435"
+    },
+    "1436": {
+        "Comment": "PAC-[Atelier][melcloud][ReturnTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1436"
+    },
+    "1437": {
+        "Comment": "PAC-[Atelier][melcloud][ReturnTemperatureZone1]",
+        "DataType": "Temperature",
+        "Idx": "1437"
+    },
+    "1438": {
+        "Comment": "PAC-[Atelier][melcloud][ReturnTemperatureZone2]",
+        "DataType": "Temperature",
+        "Idx": "1438"
+    },
+    "1439": {
+        "Comment": "PAC-[Atelier][melcloud][ReturnTemperatureBoiler]",
+        "DataType": "Temperature",
+        "Idx": "1439"
+    },
+    "1440": {
+        "Comment": "PAC-[Atelier][melcloud][BoilerStatus]",
+        "DataType": "Binary",
+        "Idx": "1440"
+    },
+    "1441": {
+        "Comment": "PAC-[Atelier][melcloud][BoosterHeater1Status]",
+        "DataType": "Binary",
+        "Idx": "1441"
+    },
+    "1442": {
+        "Comment": "PAC-[Atelier][melcloud][BoosterHeater2Status]",
+        "DataType": "Binary",
+        "Idx": "1442"
+    },
+    "1443": {
+        "Comment": "PAC-[Atelier][melcloud][BoosterHeater2PlusStatus]",
+        "DataType": "Binary",
+        "Idx": "1443"
+    },
+    "1444": {
+        "Comment": "PAC-[Atelier][melcloud][ImmersionHeaterStatus]",
+        "DataType": "Binary",
+        "Idx": "1444"
+    },
+    "1445": {
+        "Comment": "PAC-[Atelier][melcloud][WaterPump1Status]",
+        "DataType": "Binary",
+        "Idx": "1445"
+    },
+    "1446": {
+        "Comment": "PAC-[Atelier][melcloud][WaterPump2Status]",
+        "DataType": "Binary",
+        "Idx": "1446"
+    },
+    "1447": {
+        "Comment": "PAC-[Atelier][melcloud][WaterPump3Status]",
+        "DataType": "Binary",
+        "Idx": "1447"
+    },
+    "1448": {
+        "Comment": "PAC-[Atelier][melcloud][ValveStatus3Way]",
+        "DataType": "Binary",
+        "Idx": "1448"
+    },
+    "1449": {
+        "Comment": "PAC-[Atelier][melcloud][ValveStatus2Way]",
+        "DataType": "Binary",
+        "Idx": "1449"
+    },
+    "1450": {
+        "Comment": "PAC-[Atelier][melcloud][WaterPump4Status]",
+        "DataType": "Binary",
+        "Idx": "1450"
+    },
+    "1451": {
+        "Comment": "PAC-[Atelier][melcloud][ValveStatus2Way2a]",
+        "DataType": "Binary",
+        "Idx": "1451"
+    },
+    "1452": {
+        "Comment": "PAC-[Atelier][melcloud][ValveStatus2Way2b]",
+        "DataType": "Binary",
+        "Idx": "1452"
+    },
+    "1453": {
+        "Comment": "PAC-[Atelier][melcloud][TankWaterTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1453"
+    },
+    "1454": {
+        "Comment": "PAC-[Atelier][melcloud][ThermostatStatusZone1]",
+        "DataType": "Binary",
+        "Idx": "1454"
+    },
+    "1455": {
+        "Comment": "PAC-[Atelier][melcloud][ThermostatStatusZone2]",
+        "DataType": "Binary",
+        "Idx": "1455"
+    },
+    "1456": {
+        "Comment": "PAC-[Atelier][melcloud][MixingTankWaterTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1456"
+    },
+    "1457": {
+        "Comment": "PAC-[Atelier][melcloud][CondensingTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1457"
+    },
+    "1458": {
+        "Comment": "PAC-[Atelier][melcloud][DemandPercentage]",
+        "DataType": "Percent",
+        "Idx": "1458"
+    },
+    "1459": {
+        "Comment": "PAC-[Atelier][melcloud][DailyHeatingEnergyConsumed]",
+        "DataType": "kWh",
+        "Idx": "1459"
+    },
+    "1460": {
+        "Comment": "PAC-[Atelier][melcloud][DailyHeatingEnergyProduced]",
+        "DataType": "kWh",
+        "Idx": "1460"
+    },
+    "1461": {
+        "Comment": "PAC-[Atelier][melcloud][Power]",
+        "DataType": "Binary",
+        "Idx": "1461"
+    },
+    "1465": {
+        "Comment": "PAC-[Atelier][melcloud][SetTemperatureZone1]",
+        "DataType": "Temperature",
+        "Idx": "1465"
+    },
+    "1466": {
+        "Comment": "PAC-[Atelier][melcloud][SetTemperatureZone2]",
+        "DataType": "Temperature",
+        "Idx": "1466"
+    },
+    "1467": {
+        "Comment": "PAC-[Atelier][melcloud][SetTankWaterTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1467"
+    },
+    "1468": {
+        "Comment": "PAC-[Atelier][melcloud][TargetHCTemperatureZone1]",
+        "DataType": "Temperature",
+        "Idx": "1468"
+    },
+    "1469": {
+        "Comment": "PAC-[Atelier][melcloud][TargetHCTemperatureZone2]",
+        "DataType": "Temperature",
+        "Idx": "1469"
+    },
+    "1470": {
+        "Comment": "PAC-[Atelier][melcloud][HolidayMode]",
+        "DataType": "Binary",
+        "Idx": "1470"
+    },
+    "1471": {
+        "Comment": "PAC-[Atelier][melcloud][SetHeatFlowTemperatureZone1]",
+        "DataType": "Temperature",
+        "Idx": "1471"
+    },
+    "1472": {
+        "Comment": "PAC-[Atelier][melcloud][SetHeatFlowTemperatureZone2]",
+        "DataType": "Temperature",
+        "Idx": "1472"
+    },
+    "1473": {
+        "Comment": "PAC-[Atelier][melcloud][CurrentEnergyConsumed]",
+        "DataType": "kWh",
+        "Idx": "1473"
+    },
+    "1474": {
+        "Comment": "PAC-[Atelier][melcloud][CurrentEnergyProduced]",
+        "DataType": "kWh",
+        "Idx": "1474"
+    },
+    "1475": {
+        "Comment": "PAC-[Atelier][melcloud][MinTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1475"
+    },
+    "1476": {
+        "Comment": "PAC-[Atelier][melcloud][MaxTemperature]",
+        "DataType": "Temperature",
+        "Idx": "1476"
+    },
+    "1546": {
+        "Comment": "Salon-Gateway-Temperature",
+        "DataType": "Temperature",
+        "Idx": "144"
+    },
+    "1554": {
+        "Comment": "Entrée-Temperature",
+        "DataType": "Temperature",
+        "Idx": "65"
+    },
+    "1555": {
+        "Comment": "Entrée-Humidity",
+        "DataType": "Humidity",
+        "Idx": "65"
+    },
+    "1556": {
+        "Comment": "Cellier-Temperature",
+        "DataType": "Temperature",
+        "Idx": "38"
+    },
+    "1558": {
+        "Comment": "Cellier-Humidity",
+        "DataType": "Humidity",
+        "Idx": "38"
+    },
+    "1560": {
+        "Comment": "Moulin-Temperature",
+        "DataType": "Temperature",
+        "Idx": "68"
+    },
+    "1561": {
+        "Comment": "Moulin-Humidity",
+        "DataType": "Humidity",
+        "Idx": "68"
+    },
+    "1583": {
+        "Comment": "Atelier-Tableau éléctrique",
+        "DataType": "Temperature",
+        "Idx": "1482"
+    },
+    "1648": {
+        "Comment": "Cave moulin-Temperature",
+        "DataType": "Temperature",
+        "Idx": "437"
+    },
+    "1649": {
+        "Comment": "Cave moulin-Humidity",
+        "DataType": "Humidity",
+        "Idx": "437"
+    },
+    "1668": {
+        "Comment": "Extérieur sous abri-Temperature",
+        "DataType": "Temperature",
+        "Idx": "103"
+    },
+    "1669": {
+        "Comment": "Extérieur sous abri-U Batterie",
+        "DataType": "Utility",
+        "Idx": "103"
+    },
+    "278": {
+        "Comment": "Extérieur sous abri-Humidity",
+        "DataType": "Humidity",
+        "Idx": "103"
+    },
+    "29": {
+        "Comment": "LFBO-Temperature",
+        "DataType": "Temperature",
+        "Idx": "25"
+    },
+    "30": {
+        "Comment": "LFBO-Humidity",
+        "DataType": "Humidity",
+        "Idx": "25"
+    },
+    "337": {
+        "Comment": "Chambre-Temperature",
+        "DataType": "Temperature",
+        "Idx": "337"
+    },
+    "338": {
+        "Comment": "Chambre-Humidity",
+        "DataType": "Humidity",
+        "Idx": "337"
+    },
+    "339": {
+        "Comment": "Chambre-Barometer",
+        "DataType": "Barometer",
+        "Idx": "337"
+    },
+    "340": {
+        "Comment": "Chambre-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "337"
+    },
+    "343": {
+        "Comment": "Véranda-Temperature",
+        "DataType": "Temperature",
+        "Idx": "343"
+    },
+    "344": {
+        "Comment": "Véranda-Humidity",
+        "DataType": "Humidity",
+        "Idx": "343"
+    },
+    "345": {
+        "Comment": "Véranda-Barometer",
+        "DataType": "Barometer",
+        "Idx": "343"
+    },
+    "346": {
+        "Comment": "Véranda-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "343"
+    },
+    "351": {
+        "Comment": "Chambre-U Batterie",
+        "DataType": "mV",
+        "Idx": "337"
+    },
+    "352": {
+        "Comment": "Chambre-% batterie",
+        "DataType": "Percent",
+        "Idx": "337"
+    },
+    "353": {
+        "Comment": "Véranda-U Batterie",
+        "DataType": "mV",
+        "Idx": "343"
+    },
+    "354": {
+        "Comment": "Véranda-% batterie",
+        "DataType": "Percent",
+        "Idx": "343"
+    },
+    "368": {
+        "Comment": "Pièce musique-Temperature",
+        "DataType": "Temperature",
+        "Idx": "368"
+    },
+    "369": {
+        "Comment": "Pièce musique-Humidity",
+        "DataType": "Humidity",
+        "Idx": "368"
+    },
+    "370": {
+        "Comment": "Pièce musique-Barometer",
+        "DataType": "Barometer",
+        "Idx": "368"
+    },
+    "371": {
+        "Comment": "Pièce musique-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "368"
+    },
+    "373": {
+        "Comment": "Pièce musique-U Batterie",
+        "DataType": "mV",
+        "Idx": "368"
+    },
+    "374": {
+        "Comment": "Pièce musique-% batterie",
+        "DataType": "Percent",
+        "Idx": "368"
+    },
+    "376": {
+        "Comment": "Bureau télétravail-Temperature",
+        "DataType": "Temperature",
+        "Idx": "376"
+    },
+    "377": {
+        "Comment": "Bureau télétravail-Humidity",
+        "DataType": "Humidity",
+        "Idx": "376"
+    },
+    "378": {
+        "Comment": "Bureau télétravail-Barometer",
+        "DataType": "Barometer",
+        "Idx": "376"
+    },
+    "379": {
+        "Comment": "Bureau télétravail-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "376"
+    },
+    "381": {
+        "Comment": "Bureau télétravail-U Batterie",
+        "DataType": "mV",
+        "Idx": "376"
+    },
+    "382": {
+        "Comment": "Bureau télétravail-% batterie",
+        "DataType": "Percent",
+        "Idx": "376"
+    },
+    "394": {
+        "Comment": "Cuisine-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "398"
+    },
+    "396": {
+        "Comment": "Cuisine-U Batterie",
+        "DataType": "mV",
+        "Idx": "398"
+    },
+    "397": {
+        "Comment": "Cuisine-% batterie",
+        "DataType": "Percent",
+        "Idx": "398"
+    },
+    "398": {
+        "Comment": "Cuisine-Leak",
+        "DataType": "Leak",
+        "Idx": "398"
+    },
+    "44": {
+        "Comment": "LFBO-Barometer",
+        "DataType": "Barometer",
+        "Idx": "25"
+    },
+    "548": {
+        "Comment": "Salon-Temperature",
+        "DataType": "Temperature",
+        "Idx": "4"
+    },
+    "549": {
+        "Comment": "Salon-Humidity",
+        "DataType": "Humidity",
+        "Idx": "4"
+    },
+    "550": {
+        "Comment": "Salon-Barometer",
+        "DataType": "Barometer",
+        "Idx": "4"
+    },
+    "551": {
+        "Comment": "Salon-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "4"
+    },
+    "552": {
+        "Comment": "Salon-U Batterie",
+        "DataType": "mV",
+        "Idx": "4"
+    },
+    "553": {
+        "Comment": "Salon-% batterie",
+        "DataType": "Percent",
+        "Idx": "4"
+    },
+    "561": {
+        "Comment": "SPA-Temperature",
+        "DataType": "Temperature",
+        "Idx": "561"
+    },
+    "562": {
+        "Comment": "SPA-Humidity",
+        "DataType": "Humidity",
+        "Idx": "561"
+    },
+    "564": {
+        "Comment": "SPA-Barometer",
+        "DataType": "Barometer",
+        "Idx": "561"
+    },
+    "565": {
+        "Comment": "SPA-LinkQuality",
+        "DataType": "LinkQuality",
+        "Idx": "561"
+    },
+    "566": {
+        "Comment": "SPA-U Batterie",
+        "DataType": "mV",
+        "Idx": "561"
+    },
+    "567": {
+        "Comment": "SPA-% batterie",
+        "DataType": "Percent",
+        "Idx": "561"
+    }
+}
